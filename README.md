@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @svetgeorgiev
-- 👀 I’m interested in Space Technology
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on flight computers, data loggers, navigation systems, weather ballooning.
-- 📫 How to reach me twitter @ RevoTORSys or Earth[at]RevoTorSys[dot]com
+- 👀 I’m interested in Web3 and Blockchain Technology
+- 🌱 I’m currently learning NodeJS 
+- 💞️ I’m looking to collaborate on blockchain dApp's.
+- 📫 How to reach me s22ocb[at]gmail[dot]com
 
 <!---
 svetgeorgiev/svetgeorgiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
